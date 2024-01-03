@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.active-tab-btn {
+  border-style: none;
+  border-bottom-style: solid;
+  border-bottom-color: #2563eb;
+  color: #2563eb;
+  background-color: transparent;
+  height: 40px;
+  width: 70px;
+}
+
+.tab-btn {
+  border-style: none;
+  border-bottom-style: solid;
+  border-bottom-color: #dfe2e5;
+  color: #7b8794;
+  background-color: transparent;
+  height: 40px;
+  width: 70px;
+}
